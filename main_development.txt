@@ -1,0 +1,12 @@
+* oneline:ea2e6f3 2023-07-10 | Revert "Revert "delete this commit"" (HEAD -> main, feature_testing) [ainugiri12]
+* oneline:1e0e09d 2023-07-10 | Revert "delete this commit" [ainugiri12]
+* oneline:2835cd2 2023-07-10 | delete this commit [ainugiri12]
+*   oneline:367af0e 2022-08-17 | Merge branch 'main' of https://github.com/ainugiri12/NewProject12 (origin/main, origin/HEAD) [Giri prasad]
+|\
+| * oneline:79d35c2 2022-08-17 | Update File02.txt [Umesh91]
+* | oneline:4f6178f 2022-08-17 | Update File02.txt [Giri prasad]
+* | oneline:ff98dd3 2022-08-17 | Create File03.txt [Giri prasad]
+|/
+* oneline:730f9f6 2022-08-17 | Create File02.txt [ainugiri12]
+* oneline:7d32eec 2022-08-17 | Initial commit [ainugiri12]
+
